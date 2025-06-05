@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36127.28 d17.14
+VisualStudioVersion = 17.14.36127.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testweb1", "Testweb1\Testweb1.csproj", "{921A9EF2-6DB2-4791-9278-9A109109357D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTIA_testweb", "Testweb1\LTIA_testweb.csproj", "{921A9EF2-6DB2-4791-9278-9A109109357D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
